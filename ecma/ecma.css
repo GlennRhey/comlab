@@ -1,0 +1,136 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    max-width: 1600px;
+    background-color: gray;
+}
+
+nav {
+    position: relative;
+}
+
+.home {
+    padding-right: 5px;
+    border-right: 3px solid gray;
+}
+.compare {
+    padding-right: 5px;
+    border-right: 3px solid gray;
+}
+
+.nav-left {
+    background-color: rgb(170, 163, 163);
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    margin-left: 50px;
+    right: 0px;
+    width: 100px;
+}
+.nav-right {
+    background-color: rgb(170, 163, 163);
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    right: 0;
+    margin-right: 25px;
+}
+.nav-div {
+    border-bottom: 1px gray solid;
+    height: 3px;
+}
+
+header {
+    text-align: center;
+    background-color: orangered;
+    margin-left: 50px;
+    width: 90%;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.section-divider {
+    background-color: gray;
+    height: 20px;
+}
+.hashtag {
+    background-color: orangered;
+    position: absolute;
+    left: 41px;
+    top: 110px;
+}
+section {
+    background-color: antiquewhite;
+    margin-left: 50px;
+    width: 90%;
+}
+h1 {
+    margin-left: 15px;
+    font-weight: normal;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+section p {
+    margin-left: 15px;
+    margin-top: 5px;
+    font-size: 12px;
+}
+.table span {
+    position: relative;
+}
+
+h3 span {
+    display: inline-block;
+    font-size: 11px;
+    margin-left: 15px;
+    position: absolute;
+    left: 15px;
+}
+
+.safari-ios {
+    width: 50px;
+}
+.android-browser {
+    width: 50px;
+}
+
+.opera-mobile {
+    width: 50px;
+}
+.chrome-android {
+    width: 50px;
+}
+
+.row1 {
+    background-color: aqua;
+    height: 1rem;
+    width: 90vw;
+}
+.row2 {
+    background-color: rgb(4, 66, 66);
+    height: 1rem;
+    width: 90vw;
+}
+.row3 {
+    background-color: rgb(14, 153, 116);
+    height: 1rem;
+    width: 90vw;
+}
+.row4 {
+    background-color: rgb(2, 7, 147);
+    height: 1rem;
+    width: 90vw;
+}
+.row5 {
+    background-color: rgb(204, 37, 209);
+    height: 1rem;
+    width: 90vw;
+}
