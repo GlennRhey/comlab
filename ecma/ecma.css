@@ -9,7 +9,7 @@
 }
 
 body {
-    max-width: 1600px;
+    max-width: 780px;
     background-color: gray;
 }
 
@@ -136,39 +136,49 @@ h3 span {
     left: 77px;
     top: 6px;
     background-color: goldenrod;
-    padding: 5px 13px 5px 13px;
+    padding: 5px 7px 5px 6px;
 }
+.row1-first-jr {
+    position: absolute;
+    left: -39px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
+}
+
 .row1-second {
     position: absolute;
-    left: 80px;
+    left: 82px;
     top: 6px;
     background-color: rgb(148, 4, 4);
     padding: 5px 20px 5px 19px;
 }
 .row1-third {
     position: absolute;
-    left: 83px;
+    left: 86px;
     top: 6px;
     background-color: rgb(148, 4, 4);
     padding: 5px 16px 5px 16px;
 }
 .row1-fourth {
     position: absolute;
-    left: 85px;
+    left: 88px;
     top: 6px;
     background-color: rgb(148, 4, 4);
-    padding: 5px 15px 5px 15px;
+    padding: 5px 14px 5px 15px;
 }
 .row1-fifth {
     position: absolute;
-    left: 87px;
+    left: 91px;
     top: 6px;
     background-color: rgb(148, 4, 4);
     padding: 5px 7px 5px 8px;
 }
 .row1-sixth {
     position: absolute;
-    left: 89px;
+    left: 93px;
     top: 6px;
     background-color: rgb(148, 4, 4);
     padding: 5px 7px 5px 6px;
@@ -182,53 +192,62 @@ h3 span {
     position: absolute;
     left: 77px;
     top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 13px 5px 13px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 4px 5px 5px;
+}
+.row2-first-jr {
+    position: absolute;
+    left: -38px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row2-second {
     position: absolute;
-    left: 80px;
+    left: 82px;
     top: 5px;
     background-color: goldenrod;
-    padding: 5px 15px 5px 17px;
+    padding: 5px 16px 5px 17px;
 }
 .row2-third {
     position: absolute;
-    left: 83px;
+    left: 84px;
     top: 5px;
     background-color: goldenrod;
     padding: 5px 13px 5px 13px;
 }
 .row2-fourth {
     position: absolute;
-    left: 85px;
+    left: 86px;
     top: 5px;
     background-color: goldenrod;
     padding: 5px 10px 5px 10px;
 }
 .row2-fifth {
     position: absolute;
-    left: 87px;
+    left: 89px;
     top: 5px;
     background-color: goldenrod;
     padding: 5px 12px 5px 13px;
 }
 .row2-sixth {
     position: absolute;
-    left: 89px;
+    left: 91px;
     top: 5px;
     background-color: goldenrod;
     padding: 5px 11px 5px 12px;
 }
 .row2-seventh {
     position: absolute;
-    left: 154px;
+    left: 156px;
     top: 5px;
     background-color: rgb(148, 4, 4);
-    padding: 5px 5px 5px 6px;
+    padding: 5px 6px 5px 6px;
 }
 .row3 {
-   position: relative;
+    position: relative;
     height: 28px;
     width: 90vw;
 }
@@ -236,7 +255,7 @@ h3 span {
     position: absolute;
     left: 15px;
     top: 5px;
-    background-color:  rgb(148, 4, 4);
+    background-color: rgb(148, 4, 4);
     padding: 5px 16px 5px 16px;
 }
 .row3-second {
@@ -244,53 +263,89 @@ h3 span {
     left: 18px;
     top: 5px;
     background-color: rgb(14, 153, 116);
-    padding: 5px 14px 5px 13px;
+    padding: 5px 7px 5px 6px;
+}
+.row3-second-jr {
+    position: absolute;
+    left: -39px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row3-third {
     position: absolute;
-    left: 20px;
+    left: 22px;
     top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 13px 5px 13px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 7px 5px 7px;
+}
+.row3-third-jr {
+    position: absolute;
+    left: -40px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row3-fourth {
     position: absolute;
-    left: 22px;
+    left: 28px;
     top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 13px 5px 13px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 6px 5px 6px;
+}
+.row3-fourth-jr {
+    position: absolute;
+    left: -39px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row3-fifth {
     position: absolute;
-    left: 24px;
+    left: 33px;
     top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 9px 5px 9px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 9px 5px 8px;
 }
 .row3-sixth {
     position: absolute;
-    left: 25px;
+    left: 36px;
     top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 13px 5px 13px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 6px 5px 6px;
+}
+.row3-sixth-jr {
+    position: absolute;
+    left: -39px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row3-seventh {
     position: absolute;
-    left: 26px;
+    left: 41px;
     top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 5px 5px 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 4px 5px 4px;
 }
 .row3-eight {
     position: absolute;
-    left: 89px;
+    left: 107px;
     top: 5px;
     background-color: goldenrod;
     padding: 5px 2px 5px 1px;
 }
 .row3-ninth {
     position: absolute;
-    left: 91px;
+    left: 110px;
     top: 5px;
     background-color: rgb(148, 4, 4);
     padding: 5px 2px 5px 2px;
@@ -304,81 +359,196 @@ h3 span {
     position: absolute;
     left: 15px;
     top: 5px;
-    background-color:  rgb(148, 4, 4);
-    padding: 5px 16px 5px 16px;
+    background-color: goldenrod;
+    padding: 5px 13px 5px 13px;
+}
+.row4-first-jr {
+    position: absolute;
+    left: -28px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row4-second {
     position: absolute;
-    left: 18px;
+    left: 21px;
+    top: 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 16px 5px 16px;
+}
+.row4-second-jr {
+    position: absolute;
+    left: -32px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
+}
+.row4-third {
+    position: absolute;
+    left: 25px;
+    top: 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 15px 5px 14px;
+}
+.row4-third-jr {
+    position: absolute;
+    left: -30px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
+}
+.row4-fourth {
+    position: absolute;
+    left: 31px;
+    top: 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 15px 5px 16px;
+}
+.row4-fourth-jr {
+    position: absolute;
+    left: -31px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
+}
+.row4-fifth {
+    position: absolute;
+    left: 35px;
+    top: 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 18px 5px 18px;
+}
+.row4-sixth {
+    position: absolute;
+    left: 38px;
+    top: 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 14px 5px 14px;
+}
+.row4-sixth-jr {
+    position: absolute;
+    left: -30px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
+}
+.row4-seventh {
+    position: absolute;
+    left: 43px;
     top: 5px;
     background-color: rgb(14, 153, 116);
     padding: 5px 14px 5px 13px;
 }
-.row4-third {
-    position: absolute;
-    left: 20px;
-    top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 13px 5px 13px;
-}
-.row4-fourth {
-    position: absolute;
-    left: 22px;
-    top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 13px 5px 13px;
-}
-.row4-fifth {
-    position: absolute;
-    left: 24px;
-    top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 9px 5px 9px;
-}
-.row4-sixth {
-    position: absolute;
-    left: 25px;
-    top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 13px 5px 13px;
-}
-.row4-seventh {
-    position: absolute;
-    left: 26px;
-    top: 5px;
-    background-color:  rgb(14, 153, 116);
-    padding: 5px 5px 5px 5px;
-}
 .row4-eight {
     position: absolute;
-    left: 89px;
+    left: 44px;
     top: 5px;
-    background-color: goldenrod;
-    padding: 5px 2px 5px 1px;
+    background-color: rgb(148, 4, 4);
+    padding: 5px 22px 5px 22px;
 }
 .row4-ninth {
     position: absolute;
-    left: 91px;
+    left: 47px;
     top: 5px;
-    background-color: rgb(148, 4, 4);
-    padding: 5px 2px 5px 2px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 13px 5px 13px;
+}
+.row4-ninth-jr {
+    position: absolute;
+    left: -29px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row4-tenth {
     position: absolute;
-    left: 95px;
+    left: 52px;
     top: 5px;
-    background-color: rgb(148, 4, 4);
-    padding: 5px 2px 5px 2px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 10px 5px 9px;
+}
+.row4-tenth-jr {
+    position: absolute;
+    left: -25px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row4-eleventh {
     position: absolute;
-    left: 100px;
+    left: 57px;
     top: 5px;
-    background-color: rgb(148, 4, 4);
-    padding: 5px 2px 5px 2px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 14px 5px 14px;
+}
+.row4-eleventh-jr {
+    position: absolute;
+    left: -29px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
 }
 .row5 {
-    background-color: rgb(204, 37, 209);
     position: relative;
     height: 28px;
     width: 90vw;
+}
+.row5-first {
+    position: absolute;
+    left: 140px;
+    top: 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 6px 5px 6px;
+}
+.row5-first-jr {
+    position: absolute;
+    left: -39px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
+}
+.row5-second {
+    position: absolute;
+    left: 145px;
+    top: 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 4px 5px 4px;
+}
+.row5-second-jr {
+    position: absolute;
+    left: -44px;
+    top: -10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 2px 0px 2px;
+    color: black;
+    font-size: 5px;
+}
+.row5-third {
+    position: absolute;
+    left: 149px;
+    top: 5px;
+    background-color: rgb(14, 153, 116);
+    padding: 5px 23px 5px 22px;
+}
+.row6 {
+    height: 28px;
+    width: 90vw;
+}
