@@ -21,10 +21,14 @@ nav {
 .home {
     padding-right: 5px;
     border-right: 3px solid gray;
+    padding-top: 10px;
+    padding-bottom: 6px;
 }
 .compare {
     padding-right: 5px;
     border-right: 3px solid gray;
+    padding-top: 10px;
+    padding-bottom: 6px;
 }
 
 .nav-left {
@@ -35,6 +39,7 @@ nav {
     margin-left: 50px;
     right: 0px;
     width: 100px;
+    padding: 5px 5px;
 }
 .nav-right {
     background-color: rgb(170, 163, 163);
@@ -42,11 +47,12 @@ nav {
     text-align: center;
     width: 200px;
     right: 0;
-    margin-right: 25px;
+    margin-right: 28px;
+    padding: 5px 5px;
 }
 .nav-div {
     border-bottom: 1px gray solid;
-    height: 3px;
+    height: 20px;
 }
 
 header {
@@ -73,7 +79,7 @@ header {
     background-color: orangered;
     position: absolute;
     left: 31px;
-    top: 105px;
+    top: 122px;
     padding: 5px 5px;
     color: white;
 }
